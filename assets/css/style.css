@@ -9,7 +9,7 @@ h1{
     position: absolute; /* Фиксированное положение */
     flex: 0 0 auto;
     left: 0; bottom: 0; /* Левый нижний угол */
-    padding: 10px; /* Поля вокруг текста */
+    padding: 15px; /* Поля вокруг текста */
     background: rgb(41, 41, 41); /* Цвет фона */
     color: #fff; /* Цвет текста */
     width: 100%; /* Ширина слоя */
