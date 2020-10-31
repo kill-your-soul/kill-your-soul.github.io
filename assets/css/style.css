@@ -6,11 +6,11 @@ h1{
     font-size: 15px;
 }
 .footer {
-    position: absolute; /* Фиксированное положение */
+    position: absolute; 
     flex: 0 0 auto;
-    left: 0; bottom: 0; /* Левый нижний угол */
-    padding: 15px; /* Поля вокруг текста */
-    background: rgb(255, 255, 255); /* Цвет фона */
-    color: #333333; /* Цвет текста */
-    width: 100%; /* Ширина слоя */
+    left: 0; bottom: 0; 
+    padding: 15px; 
+    background: rgb(255, 255, 255); 
+    color: #333333; 
+    width: 90%; 
    }
